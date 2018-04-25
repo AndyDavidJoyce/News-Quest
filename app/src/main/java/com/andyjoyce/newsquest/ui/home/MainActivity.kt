@@ -1,7 +1,8 @@
-package com.andyjoyce.newsquest
+package com.andyjoyce.newsquest.ui.home
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.andyjoyce.newsquest.R
 
 class MainActivity : AppCompatActivity() {
 
